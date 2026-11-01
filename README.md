@@ -1,6 +1,6 @@
 # Campus-cart
    
-   # senior sell
-        #   juniors save!
+   senior sell
+         juniors save!
 
    
